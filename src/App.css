@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.download-btn{
+  background-color: blue;
+}
